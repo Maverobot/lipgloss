@@ -1,4 +1,4 @@
-module github.com/charmbracelet/lipgloss
+module github.com/maverobot/lipgloss
 
 go 1.15
 

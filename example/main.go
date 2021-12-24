@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/charmbracelet/lipgloss"
 	"github.com/lucasb-eyer/go-colorful"
+	"github.com/maverobot/lipgloss"
 	"golang.org/x/term"
 )
 
